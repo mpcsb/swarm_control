@@ -11,3 +11,6 @@ Some of the constraints of commercial drones are regulatory, technological and c
 1. regulatory constraints include strict rules and regulations governing the use of drones in various industries and locations.
 2. Technological constraints include limitations in battery life, range, payload capacity, and data transmission capabilities. These affect the feasibility and efficiency of using drones for certain tasks.
 3. Cost constraints include the initial cost of purchasing a drone and maintaining a drone; that said, if the control is autonomous, no pilots are needed, and depending on the area the drone is acting, no cost for licenses either.
+
+
+To be added to https://www.testingbranch.com/ soon
